@@ -8,8 +8,34 @@
 .p2-1-1,
 .p2-1-1btn,
 .p2-1-one-end,
-.p2-1-two-end, 
-.option-two-end  {
+.p2-1-two-end,
+.p2-2-end,
+.p2-3-end,
+.p2-4-end, 
+.option-two-screen,
+.two-1-btn,
+.two-2,
+.two-1-2-end
+.two-2-btn,
+.two-3,
+.two-3btn,
+.two-3-1-end,
+.two-4-scr,
+.two-4-btn,
+.two-4-1-end,
+.two-4-2-end,
+.two-2-2-scr,
+.two-2-2-scr-btn,
+.two-11-1-end,
+.two-11-2-end,
+.two-11-3-end,
+.option-three-screen,
+.three-2btn,
+.three-3,
+.three-3-btn,
+.three-3-1-end,
+.three-3-2-end,
+.three-2-2-end {
    display:none;
 }
 */
@@ -85,9 +111,28 @@ button:hover {
 .option-one-screen,
 .OnePt2,
 .p2-1-1,
+.p2-1-one-end,
+.p2-1-two-end,
+.p2-2-end,
+.p2-3-end,
+.p2-4-end, 
 .option-two-screen,
-.option-one-end,
-.option-two-end {
+.two-2,
+.two-1-2-end,
+.two-3,
+.two-3-1-end,
+.two-4-scr,
+.two-4-1-end,
+.two-4-2-end,
+.two-2-2-scr,
+.two-11-1-end,
+.two-11-2-end,
+.two-11-3-end,
+.option-three-screen,
+.three-3,
+.three-3-1-end,
+.three-3-2-end,
+.three-2-2-end {
     background-color: #fff;
     border: 1px solid #ccc;
     padding: 20px;
@@ -98,9 +143,30 @@ button:hover {
 
 /* Style the images in the screens */
 .option-one-screen img,
+.OnePt2 img,
+.p2-1-1 img,
+.p2-1-one-end img,
+.p2-1-two-end img,
+.p2-2-end,
+.p2-3-end,
+.p2-4-end, 
 .option-two-screen img,
-.option-one-end img,
-.option-two-end img {
+.two-2 img,
+.two-1-2-end img,
+.two-3 img,
+.two-3-1-end img,
+.two-4-scr img,
+.two-4-1-end img,
+.two-4-2-end img,
+.two-2-2-scr img,
+.two-11-1-end img,
+.two-11-2-end img,
+.two-11-3-end img,
+.option-three-screen img,
+.three-3 img,
+.three-3-1-end img,
+.three-3-2-end img,
+.three-2-2-end img{
     max-width: 100%;
     height: auto;
     margin-bottom: 10px;
@@ -108,9 +174,30 @@ button:hover {
 
 /* Style the text in the screens */
 .option-one-screen h1,
+.OnePt2 h1,
+.p2-1-1 h1,
+.p2-1-one-end h1,
+.p2-1-two-end h1,
+.p2-2-end h1,
+.p2-3-end h1,
+.p2-4-end h1, 
 .option-two-screen h1,
-.option-one-end h1,
-.option-two-end h1 {
+.two-2 h1,
+.two-1-2-end h1,
+.two-3 h1,
+.two-3-1-end h1,
+.two-4-scr h1,
+.two-4-1-end h1,
+.two-4-2-end h1,
+.two-2-2-scr h1,
+.two-11-1-end h1,
+.two-11-2-end h1,
+.two-11-3-end h1,
+.option-three-screen h1,
+.three-3 h1,
+.three-3-1-end h1,
+.three-3-2-end h1,
+.three-2-2-end h1{
     font-size: 20px;
     margin-bottom: 20px;
 }
